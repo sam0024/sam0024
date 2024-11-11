@@ -3,7 +3,7 @@
 <h1 align="center">Hey There👀, I'm Samiha Islam</h1>
 <h3 align="center">A passionate frontend web developer from BD</h3>
 
-<img align="right" alt="Coding" width="320" src="https://i.giphy.com/VbnUQpnihPSIgIXuZv.webp">
+<img align="right" alt="Coding" width="320" height="380" src="https://i.giphy.com/VbnUQpnihPSIgIXuZv.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sam0024&label=Profile%20views&color=0e75b6&style=flat" alt="sam0024" /> </p>
 
 <p align="left"> 
