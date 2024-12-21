@@ -1,9 +1,9 @@
-![MasterHead](https://res.cloudinary.com/superfolio/image/upload/v1620689979/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f63362f33332f63322f63363333633230656465383266306530636564376435373064626533613166332e676966_yjuh2s.gif)
+![MasterHead](https://cdnb.artstation.com/p/assets/images/images/031/653/819/original/pixel-jeff-witch.gif?1604239834)
 
 <h1 align="center">Hey There👀, I'm Samiha Islam</h1>
 <h3 align="center">A passionate full-stack web developer from BD</h3>
 
-<img align="right" alt="Coding" width="320" height="380" src="https://i.giphy.com/VbnUQpnihPSIgIXuZv.webp">
+<img align="right" alt="Coding" width="300" height="350" src="https://i.giphy.com/VbnUQpnihPSIgIXuZv.webp">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sam0024&label=Profile%20views&color=0e75b6&style=flat" alt="sam0024" /> </p>
 
 <p align="left"> 
