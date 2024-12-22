@@ -2,8 +2,9 @@
 
 <h1 align="center">Hey There👀, I'm Samiha Islam</h1>
 <h3 align="center">A Full-Stack Web Developer from BD</h3>
+<br>
 
-<img align="right" alt="Coding" width="300" height="350" src="https://i.giphy.com/VbnUQpnihPSIgIXuZv.webp">
+<img align="right" alt="Coding" width="300" height="380" src="https://i.pinimg.com/originals/9e/a7/47/9ea74739696e7374de9c03420ab760bb.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sam0024&label=Profile%20views&color=0e75b6&style=flat" alt="sam0024" /> </p>
 
 <p align="left"> 
