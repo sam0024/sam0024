@@ -14,7 +14,7 @@
 </p>
 <!-- <p align="left"> <a href="https://twitter.com/samislam0024" target="blank"><img src="https://img.shields.io/twitter/follow/samislam0024?logo=twitter&style=for-the-badge" alt="samislam0024" /></a> </p>-->
 
-- 🌱 I’m currently learning **BT5**
+- 🌱 I’m currently learning **MySQL**
 
 - 📫 How to reach me **samislam0024@gmail.com**
 
